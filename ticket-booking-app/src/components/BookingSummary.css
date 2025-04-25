@@ -1,0 +1,31 @@
+.booking-summary-container {
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.booking-summary-container h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.booking-summary-container p {
+    margin-bottom: 10px;
+}
+
+.booking-summary-container button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.booking-summary-container button:hover {
+    background-color: #1e7e34;
+}
